@@ -13,6 +13,8 @@ print("""\n                                        ░░░░░░░░░�
                                         ░░█▄▄█░█▄▄▄█░█░░█░█▄▄▀░▄█▄░█░░▀█░█▄▄█░░
                                         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░\n""")
 os.system("pip install rstr")
+os.system("pip install pystyle")
+os.system("pip install colorama")
 if sys.platform == "win32": os.system("cls")
 elif sys.platform == "linux": os.system("clear")
 from pystyle    import Colors, Colorate
