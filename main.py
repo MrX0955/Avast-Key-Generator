@@ -1,5 +1,5 @@
 import os,sys
-os.system('title "| Raymond & MrX | Avast Key Generator | Developer: MrX#3051 & Raymond#3333 |"')
+os.system('title "| MrX | Avast Key Generator | Developer: $class~#6280 |"')
 if sys.platform == "win32": os.system("cls")
 elif sys.platform == "linux": os.system("clear")
 print("""\n                                        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
